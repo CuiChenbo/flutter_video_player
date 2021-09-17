@@ -1,11 +1,5 @@
 # flutter_video_player
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+由于 Chewie 对IOS支持不友好，所以自己写了一下基础的视频播放器，简单的说是视频播放器的UI控制；
+ 使用的是 video_player 播放器框架； 支持 Title显示、占位图、播放暂停、播放时长显示、进度条显示可拖拽、视频全屏横屏播放；
+ 都是一些基础功能，可定制性高；
